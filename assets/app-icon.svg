@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Sekiro Param Hotload — blade and reload</title>
+  <rect x="32" y="32" width="960" height="960" rx="210" fill="#19211e"/>
+  <rect x="34" y="34" width="956" height="956" rx="208" fill="none" stroke="#354039" stroke-width="4"/>
+  <path d="M 684 266 A 300 300 0 1 1 266 340" fill="none" stroke="#c9a267" stroke-width="66" stroke-linecap="round"/>
+  <path d="M 307 280 L 303 420 L 191 342 Z" fill="#c9a267"/>
+  <path d="M 342 721 L 647 311 L 726 232 L 683 337 L 382 750 Z" fill="#f2eee3"/>
+  <path d="M 348 706 L 378 734 L 322 808 L 286 788 Z" fill="#c65538"/>
+  <path d="M 316 686 L 401 753" fill="none" stroke="#c65538" stroke-width="28" stroke-linecap="round"/>
+</svg>

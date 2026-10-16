@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+state/
+.build-deps/
+.native-deps/
+.zig-cache/
+native/*.dll
+native/*.lib
+native/*.log
+build/
+dist/
+*.spec
+inspect-output.txt
+*.zip
+native/*.pdb
+build-*.log
